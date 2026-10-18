@@ -7,6 +7,8 @@ estándar y matemáticas explicables.
 > Proyecto del curso [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 > (4 etapas, 23 tests del grader oficial en verde).
 
+**Español** | [English](README.en.md)
+
 ## ¿Qué hace?
 
 Le das una carpeta de notas `.md` y una pregunta en lenguaje natural, y te
